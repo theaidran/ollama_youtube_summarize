@@ -6,6 +6,8 @@
 
 
 Effortlessly transcribe and summarize videos from multiple sources (YouTube, Dropbox, Google Drive, local files) in Google Colab or locally, using state-of-the-art AI models (any local model).
+Changes:
+Added whisperx for best performance.
 
 
 
