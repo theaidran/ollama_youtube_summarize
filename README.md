@@ -10,3 +10,5 @@ Effortlessly transcribe and summarize videos from multiple sources (YouTube, Dro
 Changes:
 Added whisperx for best performance.
 Added ollama with llama3 8G as default model.
+
+Use short link for quick access. https://tinyurl.com/summarisation 
