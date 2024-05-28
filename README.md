@@ -1,4 +1,4 @@
-## Video Transcript Summarization with AI
+## Video Transcript Summarisation with AI
 
 <a href="https://colab.research.google.com/github/theaidran/ollama_youtube_summarize/blob/main/ollama_youtube_summarize.ipynb" target="_parent">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
