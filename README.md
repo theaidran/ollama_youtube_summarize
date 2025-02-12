@@ -11,7 +11,7 @@ Changes:
 
 *Added whisperx for best performance.
 
-*Added ollama with llama3 8G as default model.
+*Added ollama with llama3 8B as default model.
 
 *Added Language Transtation of a summary.
 
